@@ -1,0 +1,2 @@
+B003;Dator;1000.0;Bra Dator
+A001;Bok;100.0;DÃ¥lig Bok
